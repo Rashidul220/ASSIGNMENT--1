@@ -13,6 +13,12 @@ public class App {
           subtraction =number1-number2;
 
         System.out.println("Printer App");
+        if(number1>number2){
+          System.out.println("number1 is greater than number2");
+        }
+        else{
+          System.out.println("number2 is bigger");
+        }
         System.out.println("This app made by " + Creator);
        System.out.println("number 1");
       System.out.println("Number 1: " + number1);
