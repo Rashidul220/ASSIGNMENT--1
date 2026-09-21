@@ -14,13 +14,13 @@ public class App {
 
         System.out.println("Printer App");
         System.out.println("This app made by " + Creator);
-      // System.out.println("number1");
-      System.out.println("the value of number1 is " + number1);
-      System.out.println("the value of number2 is "+ number2);
-      System.out.println("multiplication =" +multiplication);
-      System.out.println("addition ="+addition);
-      System.out.println("division ="+division);
-      System.out.println("subtraction ="+subtraction);
+       System.out.println("number 1");
+      System.out.println("Number 1: " + number1);
+      System.out.println("Number 2: "+ number2);
+      System.out.println("Multiplication =" +multiplication);
+      System.out.println("Addition ="+addition);
+      System.out.println("Division ="+division);
+      System.out.println("Subtraction ="+subtraction);
 
     }
 }
